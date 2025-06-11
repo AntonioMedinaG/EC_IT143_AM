@@ -1,0 +1,2 @@
+-- A1: I think I can use a trigger that updates a "LastModified" column every time a record is updated. 
+-- The next step is to test if a trigger can automatically insert the current date and time when a change happens.
